@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Shop_Pet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shop_Pet.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\css\\Account.css",
+      "PackagePath": "staticwebassets\\css\\Account.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\10.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\11.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\8.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\9.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\CatStore.jpg",
+      "PackagePath": "staticwebassets\\img\\CatStore.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\Logo catt.png",
+      "PackagePath": "staticwebassets\\img\\Logo catt.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\Pine.png",
+      "PackagePath": "staticwebassets\\img\\Pine.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\Xe.jpg",
+      "PackagePath": "staticwebassets\\img\\Xe.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\Xe1.jpg",
+      "PackagePath": "staticwebassets\\img\\Xe1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\Xe2.jpg",
+      "PackagePath": "staticwebassets\\img\\Xe2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\Xe3.jpg",
+      "PackagePath": "staticwebassets\\img\\Xe3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\background.png",
+      "PackagePath": "staticwebassets\\img\\background.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\hero.jpg",
+      "PackagePath": "staticwebassets\\img\\hero.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\img\\logo-white.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\moon.png",
+      "PackagePath": "staticwebassets\\img\\moon.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\offer.jpg",
+      "PackagePath": "staticwebassets\\img\\offer.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\product-1.png",
+      "PackagePath": "staticwebassets\\img\\product-1.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\product-2.png",
+      "PackagePath": "staticwebassets\\img\\product-2.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\product-3.png",
+      "PackagePath": "staticwebassets\\img\\product-3.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\product-4.png",
+      "PackagePath": "staticwebassets\\img\\product-4.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\sun.png",
+      "PackagePath": "staticwebassets\\img\\sun.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\testimonial.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\img\\user.jpg"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\js\\Account.js",
+      "PackagePath": "staticwebassets\\js\\Account.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET MVC\\Shop_Pet\\Shop_Pet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Shop_Pet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Shop_Pet.props",
+      "PackagePath": "build\\Shop_Pet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop_Pet.props",
+      "PackagePath": "buildMultiTargeting\\Shop_Pet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Shop_Pet.props",
+      "PackagePath": "buildTransitive\\Shop_Pet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

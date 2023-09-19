@@ -1,0 +1,55 @@
+﻿@model Accounts
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<link rel="stylesheet" href="~/css/Account.css" asp-append-version="true" />
+
+<section class="header">
+    <div class="container">
+        <div class="header-content-left">
+            <h1>Sign In To <br><span>Recharge Direct.</span></h1>
+            <p>If you don't have an account <br> You can <a href="#">Reginster Here</a></p>
+        </div>
+        <div class="header-content-right">
+            <div class="login-sign">
+                <a href="#" class="active sign">Sign Up</a>
+                <a href="#" class="login">Login</a><br>
+            </div>
+            <form action="Login" method="post" id="sign-up" class="sign-up-form">
+                <input asp-for="Name" type="text" placeholder="Your Email"><br>
+                <input asp-for="Password" type="password" placeholder="password"><br>
+                <a href="#">Forget PassWord</a><br>
+                <button type="submit">Sign In</button><br>
+
+                <span>Or Continue With</span>
+                <div class="header-icon">
+                    <a href="#"><i class="fa fa-google" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-apple" aria-hidden="true"></i></a>
+                </div>
+                <!-- Form 2 -->
+            </form>
+            <form action="" method="post" id="sign-up" class="login-form" style="display: none;">
+                <input type="email" name="" id="" placeholder="Email"><br>
+                <input type="password" name="" id="" placeholder="password"><br>
+                <a href="#">Forget PassWord</a><br>
+                <button type="submit">Login</button><br>
+
+                <span>Or Continue With</span>
+                <div class="header-icon">
+                    <a href="#"><i class="fa fa-google" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-apple" aria-hidden="true"></i></a>
+                </div>
+
+            </form>
+        </div>
+
+    </div>
+</section>
+
+
+<script src="./js/Account.js"></script>
+
